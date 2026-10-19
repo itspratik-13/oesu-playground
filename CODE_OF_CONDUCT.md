@@ -19,3 +19,6 @@
 If something makes you uncomfortable, message one of the ö-esu-esu organisers privately. We'll keep it confidential.
 
 Inspired by the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+
+be good :)
